@@ -1,4 +1,4 @@
-# Hi, I'm Victory Arikpo 👋
+# Hi, I'm Vcthriee Arikpo 👋
 Cloud Infrastructure Engineer | DevOps | Cloud Security  
 Building scalable, fault-tolerant, and secure cloud solutions.
 
@@ -29,11 +29,11 @@ Building scalable, fault-tolerant, and secure cloud solutions.
 ---
 
 ## 📫 Contact Me
-- Email: arikpovictory@gmail.com  
-- LinkedIn: [Victory Arikpo](https://www.linkedin.com/in/vcthriee-arikpo)
+- Email: vcthrieearikpo@gmail.com  
+- LinkedIn: [Vcthriee Arikpo](https://www.linkedin.com/in/vcthriee-arikpo)
 
 ---
 
 ## 📈 GitHub Stats
-![Victory's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcthriee&show_icons=true&theme=radical)
+![Vcthriee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcthriee&show_icons=true&theme=radical)
 
