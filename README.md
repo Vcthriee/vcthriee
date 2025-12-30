@@ -5,11 +5,11 @@ Building scalable, fault-tolerant, and secure cloud solutions.
 ---
 
 ## 🔧 Skills
-- **Cloud Platforms:** AWS, Azure
+- **Cloud Platforms:** AWS
 - **Infrastructure as Code:** Terraform, Ansible
-- **DevOps & CI/CD:** GitHub Actions, Jenkins, Kubernetes, Docker
+- **DevOps & CI/CD:** GitHub Actions, Kubernetes, Docker
 - **Security & Monitoring:** Cloud Security Best Practices, IAM, Logging, Monitoring
-- **Scripting / Automation:** Bash, Python
+- **Scripting / Automation:** Bash,
 
 ---
 
