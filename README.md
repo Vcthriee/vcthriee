@@ -14,6 +14,10 @@ Building scalable, fault-tolerant, and secure cloud solutions.
 ---
 
 ## 📂 Projects (Planned / In Progress)
+1. **Multi-Tier Cloud Infrastructure VPC**
+ - Terraform & Ansible setup for HA, multi-AZ, fault-tolerant cloud infrastructure
+ - Secure networking, backups, monitoring, and logging
+
 1. **Multi-Tier Cloud Infrastructure**  
    - Terraform & Ansible setup for HA, multi-AZ, fault-tolerant cloud infrastructure  
    - Secure networking, backups, monitoring, and logging
