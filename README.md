@@ -1,43 +1,24 @@
-# Hi, I'm Vcthriee Arikpo 👋
-Cloud Infrastructure Engineer | DevOps | Cloud Security  
-Building scalable, fault-tolerant, and secure cloud solutions.
+# 💫 About Me:
+Hi, I'm Vcthriee Arikpo <br><br>Cloud Infrastructure Engineer/DevOps | Cloud Security <br>Building scalable, fault-tolerant, and secure cloud solutions.<br><br><br><br><br>Skills: <br>    Cloud Platforms: AWS<br>    Infrastructure as Code: Terraform, Ansible<br>    DevOps & CI/CD: GitHub Actions, Kubernetes, Docker<br>    Security & Monitoring: Cloud Security Best Practices, IAM, Logging, Monitoring<br>    Scripting / Automation: Bash,<br><br>Projects:<br> (Planned / In Progress)<br><br>    Multi-Tier Cloud Infrastructure VPC module<br><br>    Terraform & Ansible setup for HA, multi-AZ, fault-tolerant cloud infrastructure<br>    Secure networking, backups, monitoring, and logging<br><br>    CLOUD PLATFORM INFRASTRUCTURE(BUILD & DEPLOY)<br>        Terraform & Ansible setup for HA, multi-AZ, fault-tolerant cloud infrastructure<br>        Secure networking, backups, monitoring, and logging<br><br>    CLOUD PLATFORM OPERATIONS (RUN & SUPPORT)<br>        GitHub Actions pipeline for automated build, test, and deployment of applications<br>        Integrates with Terraform & Ansible for infrastructure updates<br><br>    Cloud Security Baseline & Compliance<br>        Automated monitoring, vulnerability scanning, and baseline security configurations<br>        Demonstrates DevSecOps best practices<br><br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cloudthriee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vcthriee Arikpo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vcthriee) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cloudthriee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vcthrieearikpo@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vcthriee.&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vcthriee.&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vcthriee.&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vcthriee.&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vcthriee.&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔧 Skills
-- **Cloud Platforms:** AWS
-- **Infrastructure as Code:** Terraform, Ansible
-- **DevOps & CI/CD:** GitHub Actions, Kubernetes, Docker
-- **Security & Monitoring:** Cloud Security Best Practices, IAM, Logging, Monitoring
-- **Scripting / Automation:** Bash,
-
----
-
-## 📂 Projects (Planned / In Progress)
-1. **Multi-Tier Cloud Infrastructure VPC module**
- - Terraform & Ansible setup for HA, multi-AZ, fault-tolerant cloud infrastructure
- - Secure networking, backups, monitoring, and logging
-
-2. **CLOUD PLATFORM INFRASTRUCTURE(BUILD & DEPLOY)**  
-   - Terraform & Ansible setup for HA, multi-AZ, fault-tolerant cloud infrastructure  
-   - Secure networking, backups, monitoring, and logging
-
-3. **CLOUD PLATFORM OPERATIONS (RUN & SUPPORT)**  
-   - GitHub Actions pipeline for automated build, test, and deployment of applications  
-   - Integrates with Terraform & Ansible for infrastructure updates
-
-3. **Cloud Security Baseline & Compliance**  
-   - Automated monitoring, vulnerability scanning, and baseline security configurations  
-   - Demonstrates DevSecOps best practices
-
----
-
-## 📫 Contact Me
-- Email: vcthrieearikpo@gmail.com  
-- LinkedIn: [Vcthriee Arikpo](https://www.linkedin.com/in/vcthriee-arikpo)
-
----
-
-## 📈 GitHub Stats
-![Vcthriee's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcthriee&show_icons=true&theme=radical)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
